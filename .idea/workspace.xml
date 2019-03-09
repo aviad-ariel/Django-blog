@@ -52,7 +52,7 @@
           <entry key="css" value="388" />
           <entry key="dummy" value="2" />
           <entry key="html" value="3732" />
-          <entry key="py" value="4748" />
+          <entry key="py" value="4749" />
           <entry key="py@port" value="251" />
         </counts>
       </usages-collector>
@@ -62,7 +62,7 @@
           <entry key="CommandLine" value="122" />
           <entry key="HTML" value="3732" />
           <entry key="PLAIN_TEXT" value="131" />
-          <entry key="Python" value="5256" />
+          <entry key="Python" value="5257" />
         </counts>
       </usages-collector>
     </session>
@@ -73,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/port/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+              <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -96,6 +96,9 @@
       <find>update_user_form</find>
       <find>aviad-ariel-home page</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -139,12 +142,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="264" />
     <option name="y" value="290" />
     <option name="width" value="934" />
     <option name="height" value="458" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -306,12 +310,12 @@
     <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19621213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19621213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32901135" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49545455" weight="0.3517018" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49545455" visible="true" weight="0.35227272" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3987034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -655,7 +659,7 @@
     <entry file="file://$PROJECT_DIR$/port/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
         </state>
       </provider>
     </entry>
