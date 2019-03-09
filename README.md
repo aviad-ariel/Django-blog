@@ -1,7 +1,7 @@
 # Django-blog
 Blog using Django framework
 # Featuers:
-* Register, Login, Logout, Update profile picture & Username & Email
+* Register, Login, Logout, Update profile picture, Username and Email
 * New post, Update post, Delete post
 #### Home page:
 ![home](https://user-images.githubusercontent.com/28646463/54073754-84f84680-4293-11e9-9f59-370fd3f7d1a5.png)
@@ -17,3 +17,5 @@ Blog using Django framework
 ![post](https://user-images.githubusercontent.com/28646463/54073731-45315f00-4293-11e9-88f4-b48b7c730137.png)
 #### View self post(update&delete):
 ![mypost](https://user-images.githubusercontent.com/28646463/54073733-482c4f80-4293-11e9-9e50-8ea7ffc53b6b.png)
+#### User profile:
+![profile](https://user-images.githubusercontent.com/28646463/54073781-d4d70d80-4293-11e9-83dd-47efd6d9504f.png)
