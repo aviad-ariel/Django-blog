@@ -17,5 +17,7 @@ Blog using Django framework
 ![post](https://user-images.githubusercontent.com/28646463/54073731-45315f00-4293-11e9-88f4-b48b7c730137.png)
 #### View self post(update&delete):
 ![mypost](https://user-images.githubusercontent.com/28646463/54073733-482c4f80-4293-11e9-9e50-8ea7ffc53b6b.png)
+#### Pagination:
+![pag](https://user-images.githubusercontent.com/28646463/54073851-89712f00-4294-11e9-8442-31d62ceb0bce.png)
 #### User profile:
 ![profile](https://user-images.githubusercontent.com/28646463/54073781-d4d70d80-4293-11e9-83dd-47efd6d9504f.png)
